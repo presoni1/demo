@@ -1,2 +1,4 @@
-hello stas
+hello stash
 merge
+rebase command practice
+
